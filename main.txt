@@ -1,0 +1,6 @@
+SIM194:Honda:Accord Euro:Henry Cavill:5:YES
+LEX666:Lexus:M1:Angela Landsbury:3:YES
+BMW256:Mini:Minor:Barbara Streisand:4:YES
+AUD765:Mazda:RX7:Matt Bomer:6:YES
+TOY765:Toyota:Corola:Tina Turner:7:NO
+ROV465:Honda:Rover:Jonathon Ryss Meyers:7:YES
